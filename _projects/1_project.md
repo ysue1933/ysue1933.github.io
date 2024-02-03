@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: OASIS Corpus
+description: A Multi-Dimensional Contrastive Study of Open Accessible Summaries and Their Corresponding Abstracts
+img: assets/img/kenkyu.jpg
 importance: 1
-category: work
-related_publications: true
+category: academic
+related_publications: false
 ---
 
 Every project has a beautiful feature showcase page.
