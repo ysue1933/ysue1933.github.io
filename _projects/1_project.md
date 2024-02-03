@@ -16,8 +16,8 @@ To give your project a background in the portfolio page, just add the img tag to
 
     ---
     layout: page
-    title: project
-    description: a project with a background image
+    title: OASIS Corpus
+    description: A Multi-Dimensional Contrastive Study of Open Accessible Summaries and Their Corresponding Abstracts
     img: /assets/img/12.jpg
     ---
 
