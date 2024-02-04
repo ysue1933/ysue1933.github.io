@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Albert Einstein",
-    "label": "",
+    "label": "Scientist",
     "image": "",
     "email": "albert@einstein.de",
-    "phone": "",
-    "url": "https://ysue1933.github.io",
+    "phone": "(912) 123-4567",
+    "url": "https://alshedivat.github.io/al-folio/",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
       "address": "2712 Broadway St",
