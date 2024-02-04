@@ -11,21 +11,22 @@
 - title: Education
   type: time_table
   contents:
-    - title: Columbia University  - Master in Quantitative Methods in the Social Sciences
-      year: Sept 2023
+    - title: MSc Artificial Intelligence
+      institution: University of Amsterdam, Amsterdam (NL)
+      year: 09/22-07/24
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Master of Science, Artificial Intelligence
+        - Courses in Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Information Retrieval, Philosophy
+    - title: IoT and AI Summer School
+      institution: Université Sorbonne Paris Nord, Paris (FR)
+      year: 07/23
+    - title: BSc Computer Science
+      institution: Baden-Wuerttemberg Cooperative State University, Stuttgart (DE)
+      year: 10/18-09/21
       description:
-        - Description 1.
-        - Description 2.
+        - Bachelor of Science, Computer Science (IT-Automotive)
+        - Dual study degree in cooperation with Robert Bosch GmbH
+        - Courses in Computer Engineering, Programming, Software Engineering, Automotive Software Development
 
 - title: Experience
   type: time_table
