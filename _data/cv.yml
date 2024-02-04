@@ -2,18 +2,17 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Yishu Zhang
+    - name: Contact
+      value: yz4638 [at] columbia [dot] edu
     - name: Languages
-      value: English, German
+      value: Mandarin (native), English (fluent), Spanish (intermediate), Japanese  (beginer)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Columbia University  - Master in Quantitative Methods in the Social Sciences
+      year: Sept 2023
       description:
         - Description 1.
         - Description 2.
