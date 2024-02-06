@@ -25,7 +25,7 @@ social: true # includes social icons at the bottom of the page
 # Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 ---
 
-Hi here! I am Yishu Zhang. I am a M.A student in [Quantitative Methods in the Social Sciences](https://www.gsas.columbia.edu/content/quantitative-methods-social-sciences) at Columbia University, where I blend my linguistic background with quantitative and computational techniques. 
+Hi here! I am Yishu Zhang. I am a M.A. student in [Quantitative Methods in the Social Sciences](https://www.gsas.columbia.edu/content/quantitative-methods-social-sciences) at Columbia University, where I blend my linguistic background with quantitative and computational techniques. 
 
 My current interest is to demystify the workings of large language models. I'm collaborating with a cancer center to peel back the layers of these digital brains to make their inner workings less of a mystery. On the side, I'm also working on an independent study to uncover how these models grasp the nuances of humor. As I navigate through these projects, I'll be documenting milestones and “aha” moments on my [project page](/projects/) — your go-to spot to check out what I've cooked up in my research kitchen.
 
