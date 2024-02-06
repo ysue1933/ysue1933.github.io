@@ -8,9 +8,22 @@ category: academic
 related_publications: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Have you ever tried to read a scientific study and found yourself lost in complicated terms and dense sentences? You're not alone. Recognizing this, some organizations are asking researchers to write simpler summaries of their work, so everyone can get the gist. I decided to look into how these summaries for non-experts compare to the traditional, more complex abstracts scientists write for each other.
+
+I built up a big collection of 629 summaries for non-experts and their corresponding abstracts from a database called Open Accessible Summaries in Language Studies (OASIS). My goal was to see which ones were easier to read and how they differed in style and substance. To do this, I used a tool that measures how easy texts are to read, called the Flesch reading ease score, and analyzed their language in depth with a method known as Biber’s multi-dimensional analysis framework.
+
+The findings? Summaries for non-experts are indeed easier to read. They're more engaging, straightforward, and rely more on the context than diving deep into hard facts or detailed explanations. They also tend to be more personal and less formal than their abstract counterparts.
+
+Interestingly, my study showed that these summaries for non-experts and the abstracts serve as unique types of writing. Each has its own style and purpose. This insight is super helpful for anyone looking to make science more accessible. It shows us how we can better share complex ideas with everyone, making the world of science a bit less intimidating and a lot more inclusive.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/oasis1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Summaries for non-experts versus abstracts for experts
+</div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -26,14 +39,10 @@ Make your photos 1/3, 2/3, or full width.
 <div class="caption">
     Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/oasis1.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Open acessible summaries versus academic abstracts
-</div>
+
+
+
+
 
 You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
 Say you wanted to write a bit about your project before you posted the rest of the images.
