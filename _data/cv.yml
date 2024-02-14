@@ -94,7 +94,7 @@
         - Description 2.
         
 - title: Computer Skills
-  type: nested_list
+  type: list
   contents:
     - Programming Languages - Python, C, R
     - Frameworks - TensorFlow, scikit-learn, Pandas
