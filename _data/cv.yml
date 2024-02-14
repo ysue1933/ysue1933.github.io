@@ -1,32 +1,34 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
+    - name: Name
       value: Yishu Zhang
     - name: Contact
       value: yz4638 [at] columbia [dot] edu
     - name: Languages
-      value: Mandarin (native), English (fluent), Spanish (intermediate), Japanese  (beginer)
+      value: Mandarin, English, Spanish, Japanese
 
 - title: Education
   type: time_table
   contents:
-    - title: MSc Artificial Intelligence
-      institution: University of Amsterdam, Amsterdam (NL)
-      year: 09/22-07/24
+    - title: MA Quantitative Methods in the Social Sciences
+      institution: Columbia University, New York (US)
+      year: 2023 - 2025
       description:
-        - Master of Science, Artificial Intelligence
-        - Courses in Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Information Retrieval, Philosophy
-    - title: IoT and AI Summer School
-      institution: Université Sorbonne Paris Nord, Paris (FR)
-      year: 07/23
-    - title: BSc Computer Science
-      institution: Baden-Wuerttemberg Cooperative State University, Stuttgart (DE)
-      year: 10/18-09/21
+        - Master of Arts, Data Science Focus in Quantitative Methods in the Social Sciences
+        - title: Courses
+          contents: 
+          - Natural Language Processing, Machine Learning, Data Strcutures
+          - Word and Grammar (Morphosyntax)
+    - title: BA English 
+      institution: Fudan University, Shanghai (CN)
+      year: 2019-2023
       description:
-        - Bachelor of Science, Computer Science (IT-Automotive)
-        - Dual study degree in cooperation with Robert Bosch GmbH
-        - Courses in Computer Engineering, Programming, Software Engineering, Automotive Software Development
+        - Bachelor of Arts, Linguistics Track in English
+        - title: Courses
+          contents:
+              - Introduction to Linguistics, Aspects of English, Phonetics, Comparative Grammar, Language History
+              - Applied Linguistics, Language and Education
 
 - title: Experience
   type: time_table
@@ -90,7 +92,13 @@
       items:
         - Description 1.
         - Description 2.
-
+        
+- title: Computer Skills
+  type: nested_list
+  contents:
+    - Programming Languages - Python, C, R
+    - Frameworks - TensorFlow, scikit-learn, Pandas
+    
 - title: Other Interests
   type: list
   contents:
