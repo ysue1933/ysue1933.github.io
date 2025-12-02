@@ -149,6 +149,28 @@ ninja.data = [{
             window.location.href = "/blog/2024/pseudocode/";
           
         },
+      },{id: "post-syntactically-realized-case-marking",
+        
+          title: "Syntactically realized case marking",
+        
+        description: "a grammatical analysis of the Watam language of New Guinea using the Parallel Architectures framework",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/LING4022-exercise2/";
+          
+        },
+      },{id: "post-predicate-argument-structure",
+        
+          title: "Predicate-argument structure",
+        
+        description: "a grammatical analysis of the Michoacan dialect of Aztec using the Parallel Architectures framework",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/LING4022-exercise1/";
+          
+        },
       },{id: "post-a-post-with-code-diff",
         
           title: "a post with code diff",
